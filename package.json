@@ -1,0 +1,63 @@
+{
+    "_from": "gitbook-plugin-google-ads",
+    "_id": "gitbook-plugin-google-ads@0.1.0",
+    "_inBundle": false,
+    "_integrity": "sha1-vyR0zJUlhSyCciwNj7O/1xNnD+w=",
+    "_location": "/gitbook-plugin-google-ads",
+    "_phantomChildren": {},
+    "_requested": {
+      "type": "tag",
+      "registry": true,
+      "raw": "gitbook-plugin-google-ads",
+      "name": "gitbook-plugin-google-ads",
+      "escapedName": "gitbook-plugin-google-ads",
+      "rawSpec": "",
+      "saveSpec": null,
+      "fetchSpec": "latest"
+    },
+    "_requiredBy": [
+      "#USER",
+      "/"
+    ],
+    "_resolved": "https://registry.npmjs.org/gitbook-plugin-google-ads/-/gitbook-plugin-google-ads-0.1.0.tgz",
+    "_shasum": "bf2474cc9525852c82722c0d8fb3bfd713670fec",
+    "_spec": "gitbook-plugin-google-ads",
+    "author": {
+      "name": "HU WEIHUANG",
+      "email": "huweihuang@foxmail.com",
+      "url": "https://www.huweihuang.com"
+    },
+    "bugs": {
+      "url": "https://github.com/huweihuang/gitbook-plugin-google-ads/issues"
+    },
+    "bundleDependencies": false,
+    "deprecated": false,
+    "description": "Inject Google Adsense to your Gitbook.",
+    "engines": {
+      "gitbook": ">=2.5.1"
+    },
+    "gitbook": {
+      "properties": {
+        "ads": {
+          "type": "array",
+          "title": "Array of Ad block",
+          "required": true
+        }
+      }
+    },
+    "homepage": "https://github.com/huweihuang/gitbook-plugin-google-ads",
+    "keywords": [
+      "gitbook",
+      "plugin",
+      "adsense"
+    ],
+    "license": "Apache-2.0",
+    "main": "index.js",
+    "name": "gitbook-plugin-google-ads",
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/huweihuang/gitbook-plugin-google-ads.git"
+    },
+    "version": "0.1.0"
+  }
+  
