@@ -10,6 +10,8 @@ Config plugin in `book.json`.
 
 Install via **npm**
 
+npm link: https://www.npmjs.com/package/gitbook-plugin-google-ads
+
 ```
 $ npm install gitbook-plugin-google-ads
 ```
