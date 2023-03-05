@@ -4,7 +4,7 @@ The Google Adsense plugin for Gitbook
 Config plugin in `book.json`.
 ```
 {
-  "plugins": ["google-adsense"]
+  "plugins": ["google-ads"]
 }
 ```
 
@@ -29,9 +29,9 @@ For example,
 
 ```
 {
-    "plugins": ["google-adsense"],
+    "plugins": ["google-ads"],
     "pluginsConfig": {
-        "google-adsense": {
+        "google-ads": {
             "ads": [
                 {
                     "client": "ca-pub-xxxxx"
