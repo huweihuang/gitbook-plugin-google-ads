@@ -41,3 +41,9 @@ For example,
     }
 }
 ```
+
+install
+
+```
+gitbook install
+```
